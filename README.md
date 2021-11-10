@@ -11,3 +11,7 @@
 - 😄 Pronouns: .RSimmz..
 - ⚡ Fun fact: .'i DONT STOP learning '..
 
+![RSimmz98 GitHub stats](https://github-readme-stats.vercel.app/api?username=RSimmz98&show_icons=true&theme=gruvbox_light)
+
+
+
