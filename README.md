@@ -41,6 +41,7 @@
  <a href="https://cpanel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="36" height="36" alt="Cpanel" /></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374171/vscode.svg" width="36" height="36" alt="VSCode" /></a>
  <a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/355037/google.svg" width="36" height="36" alt="VSCode" /></a>
+  <a href="https://sanity.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4" width="36" height="36" alt="Sanity" /></a>
 </p>
  
 
