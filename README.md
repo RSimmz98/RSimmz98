@@ -11,9 +11,10 @@
 - 😄 Pronouns: .RSimmz..
 - ⚡ Fun fact: .'i DONT STOP learning '..
 
-
+[![@rsimmz98's Holopin board](https://holopin.io/api/user/board?user=rsimmz98)](https://holopin.io/@rsimmz98)
 
 ### Skills
+
 
 <p align="left">
    <a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/3150/1*F6ufPKgGbyUPkWLZ-16ycw.png" width="36" height="36" alt="framer" /></a>
