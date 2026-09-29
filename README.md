@@ -18,7 +18,7 @@
 
 <p align="left">
    <a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/3150/1*F6ufPKgGbyUPkWLZ-16ycw.png" width="36" height="36" alt="framer" /></a>
-  <a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width="36" height="36" alt="neovim" /></a>
+  
  <a href="https://chakra-ui.com" target="_blank" rel="noreferrer"><img src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" width="36" height="36" alt="chakra" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
