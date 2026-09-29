@@ -51,7 +51,7 @@
 
 
 [![Richson' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RSimmz98&theme=tokyonight)]()</br>
-[![Richson' Github Stats](https://github-readme-stats.vercel.app/api?username=RSimmz98&show_icons=true&theme=github_dark)]()
+
 
 
 
